@@ -48,7 +48,7 @@ button:active{
     background-color: hsl(33, 0%, 88%);
 }
 .display{
-    
+    width:auto;
     text-align: right;
     height: 6vh;
     font-size: 2rem;
