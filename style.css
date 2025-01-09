@@ -59,8 +59,8 @@ button:active{
 }
 @media only screen and (max-width: 600px) {
     .display {
-      background-color: rgb(154, 154, 238);
-      width: 70vw;
+      background-color: white;
+      width: 80vw;
     }
   }
 #opb{
