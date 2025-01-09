@@ -48,7 +48,7 @@ button:active{
     background-color: hsl(33, 0%, 88%);
 }
 .display{
-    width:auto;
+    
     text-align: right;
     height: 6vh;
     font-size: 2rem;
@@ -59,7 +59,7 @@ button:active{
 }
 @media only screen and (max-width: 600px) {
     .display {
-      background-color: white;
+      background-color: rgb(154, 154, 238);
       width: 80vw;
     }
   }
